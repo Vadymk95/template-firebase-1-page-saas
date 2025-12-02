@@ -1,0 +1,24 @@
+{
+    "title": "Thank you for your feedback!",
+    "subtitle": "Your opinion is very important to us.",
+    "submitAnother": "Submit another",
+    "rating": {
+        "label": "Rating (optional)",
+        "ariaLabel": "Rate {{count}} stars",
+        "ariaLabel_one": "Rate 1 star",
+        "ariaLabel_other": "Rate {{count}} stars"
+    },
+    "email": {
+        "label": "Email",
+        "placeholder": "Your email (example@gmail.com)"
+    },
+    "message": {
+        "label": "Message",
+        "placeholder": "What can be improved? Or just your impressions..."
+    },
+    "submit": {
+        "label": "Send feedback",
+        "submitting": "Sending...",
+        "submittingAria": "Sending in progress"
+    }
+}
