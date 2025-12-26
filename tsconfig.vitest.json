@@ -1,0 +1,12 @@
+{
+    "extends": "./tsconfig.app.json",
+    "compilerOptions": {
+        "types": ["vitest/globals", "vitest/importMeta", "node"],
+        "moduleResolution": "bundler",
+        "verbatimModuleSyntax": false,
+        "allowImportingTsExtensions": false,
+        "resolveJsonModule": true,
+        "skipLibCheck": true
+    },
+    "include": ["src/**/*.ts", "src/**/*.tsx", "vitest.config.ts"]
+}
